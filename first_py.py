@@ -4,6 +4,7 @@ class first_class:
 
 	def func1(self):
 		print "Hello World 1"
+		print "something else"
 
 
 def main():
