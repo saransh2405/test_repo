@@ -3,7 +3,8 @@ class first_class:
 		print "constructor"
 
 	def func1(self):
-		print "Hello World"
+		print "Hello World 1"
+		print "something else"
 
 
 def main():
