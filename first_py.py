@@ -3,11 +3,12 @@ class first_class:
 		print "constructor"
 
 	def func1(self):
-		print "Hello World 1"
-		print "something else"
+		print "Hello World"
+
 
 
 def main():
+	#asd
 	a = first_class()
 	a.func1()
 
